@@ -1,0 +1,15 @@
+The findings from the task can be seen as:
+  Joel2002  : Very Weak             (takes 1.54 seconds to crack)
+  Joel2002@ : Very Weak             (takes 15.32 seconds to crack)
+  TOTALsnake2002 : Weak             (takes 3 hours to crack)
+  p0*NtD3xt3r123 : Very Strong      (takes 119 years to crack
+  w3R3_g0nN@_n33D_@_BiGG3r_BoAt :   (takes 94 thousands trillions years to crack)
+
+The addition of symbols, numbers and other letters. The complexity of the password increases with use of the characters as normal dictionaries wont contain these special characters so dictionaries attacks wont work.
+
+The common attacks that could be seen on passwords are:
+                                     -Brute forcing: This involves brute forcing the system to check if credientials are correct and this can be automated to continously try this untill they get it done. This is only possible on systems that 
+                                                     wont lock after multiple attempts.
+                                     -phishing     : This involes social engineering to obtain the crediential using fake websites and prompting urgency to change their password.
+                                     -dictionary   : The attacker will use a common wordlist to enter multiple words. These wordlists contain close thousands to millions of words that can used for this purpose.
+                                     -keylogging   : This software will be installed on people's system and the this keeps track letters typed and then this can be used to dig for passwords and use them later. 
